@@ -36,7 +36,7 @@ docker run -d --name reverse-proxy-ssl -p 443:443 -p 80:80  --link ghost-blog ng
 ~~~
 
 
-On ubuntu for other service like SSH:
+# On ubuntu for other service like SSH:
 
 ~~~
 apt install -y nginx
